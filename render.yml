@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: mon-appwoyafal
+    env: docker
+    image: docker.io/fadloulahi14/appwoyafal-appwoyafal:latest
+    plan: starter
+    autoDeploy: false
