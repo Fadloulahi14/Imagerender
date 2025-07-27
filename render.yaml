@@ -1,5 +1,5 @@
 services:
-  - type: web
+  - type: pserv
     name: mon-appwoyafal
     env: docker
     image: "docker.io/fadloulahi14/appwoyafal-appwoyafal:latest"
